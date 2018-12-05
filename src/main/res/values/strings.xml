@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GeoQuiz2</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="question_southAfrica">The capital of South Africa is Cape town. </string>
+    <string name="question_italy">The capital of Italy is Venice. </string>
+    <string name="question_china">The capital of China is Shanghai. </string>
+    <string name="question_indonesia">The capital of Indonesia is Jakarta. </string>
+    <string name="question_australia">The capital of Australia is Sydney. </string>
+    <string name="question_brazil">The capital of Brazil is Brasilia. </string>
+    <string name="question_canada">The capital of Canada is Vancouver. </string>
+
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgement_toast">Cheating is wrong.</string>
+    <string name="title_activity_cheat">CheatActivity</string>
+</resources>
